@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="zh-cn"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search | The Shade</title>
+
+    
+
+<link rel="canonical" href="//localhost:1313/search/" />
+
+
+
+<meta name="author" content="" />
+<meta name="description" content="" />
+
+
+
+<meta name="generator" content="Hugo 0.147.1">
+
+
+<meta property="og:url" content="//localhost:1313/search/">
+  <meta property="og:site_name" content="The Shade">
+  <meta property="og:title" content="Search">
+  <meta property="og:locale" content="zh_cn">
+  <meta property="og:type" content="article">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Search">
+
+
+
+
+<link rel="stylesheet" href="/css/output.css" />
+
+
+
+
+     
+
+    
+    <link rel="stylesheet" href="/css/custom.css" />
+    
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js" integrity="sha256-PtHu0lJIiSHfZeNj1nFd6wTX+Squ255SGZ/fc8seCtM=" crossorigin="anonymous"></script>
+  </head>
+
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    
+<nav class="mt-4 lg:mt-8 py-4">
+
+  
+  <div class="container flex justify-between px-4">
+  
+    <section class="flex items-center gap-4">
+      <div class="avatar cursor-pointer hover:avatar-online" @click="flip = !flip" title="">
+        <div class="h-10 rounded-full">
+          <img src="/images/avatar.jpg" alt="The Shade" />
+        </div>
+      </div>
+
+      
+      <div>
+        
+        <a href="//localhost:1313/" class="text-lg font-semibold cursor-pointer">
+          The Shade
+        </a>
+        
+        
+      </div>
+      
+    </section>
+
+    
+    
+
+    <div class="dropdown dropdown-end sm:hidden">
+      <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
+        <ion-icon name="menu" class="text-2xl"></ion-icon>
+      </div>
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-1 shadow-md">
+        
+
+
+
+
+
+
+
+<li>
+  <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="">
+    <ion-icon name="information-circle"></ion-icon></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/archives" title="">
+    <ion-icon name="archive"></ion-icon>
+    
+  </a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="">
+    <ion-icon name="pricetags"></ion-icon>
+    
+  </a>
+</li>
+
+
+
+
+
+
+      </ul>
+    </div>
+    <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      
+
+      
+      
+
+
+
+
+<div role="link" tabindex="0" class="text-sm font-semibold cursor-pointer hover:underline" @click="flip = !flip" title=""></div>
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/archives" title="">
+  <ion-icon class="group-hover:text-primary-content" name="archive"></ion-icon>
+</a>
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
+</a>
+
+
+      
+
+      
+
+      
+    </section>
+  </div>
+</nav>
+
+
+    <div class="flip-container" :class="{ 'flip-it': flip }">
+      <div class="flipper">
+        <div class="front">
+          <div class="container">
+            
+
+<div class="mt-8 lg:mt-12 px-4">
+  <label class="input w-full">
+    <input id="searchInput" type="text" placeholder="keep you searching, hgh?" class="grow" autocomplete="off" />
+    <ion-icon name="search"></ion-icon>
+  </label>
+  <ul id="searchResults" class="space-y-4 mt-4"></ul>
+</div>
+
+
+<script id="fuse-objects" type="application/json">"[{\"author\":null,\"avatar\":null,\"desc\":\"作者: tommy\\n翻译: 魅宅汉化组\\n嵌字: 魅宅汉化组\\n\",\"rt\":1,\"title\":\"DANCE ON MY GRAVE（tommy part）\",\"url\":\"/manga/danceonmygravetommy/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：Folgore\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"DANCE ON MY GRAVE（眼带）\",\"url\":\"/manga/danceonmygrave1/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：片山愁\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"片山愁特辑\",\"url\":\"/manga/psc2/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：片山愁\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"片山愁特辑·小豆丁哥哥\",\"url\":\"/manga/psc/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：宗六\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"love song\",\"url\":\"/manga/lovesong/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：宗六\\n图源: @Qc\\n翻译: @萌新悍匪\\n嵌字: @Qc\\n\",\"rt\":1,\"title\":\"UMA\",\"url\":\"/manga/uma/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：モスマン\\n图源: @Qc\\n翻译: @路过的匿名\\n嵌字: @Qc\\n\",\"rt\":1,\"title\":\"TAKE ME TO CHURCH\",\"url\":\"/manga/takemetochurch/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：えふ\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"赤の他人だったらどれほど\",\"url\":\"/manga/strangers/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者: 梅吉\\n图源: @Qc\\n翻译: @悍匪萌新\\n嵌字: @Qc\\n\",\"rt\":1,\"title\":\"Like a dream\",\"url\":\"/manga/likeadream/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：ゆのぱんちゃこ\\n图源：@Qc\\n翻译：@悍匪萌新\\n嵌字：@Qc\\n\",\"rt\":1,\"title\":\"BY MY SIDE\",\"url\":\"/manga/bymyside/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者: 苍井ゆうま·カルカン子\\n图源: @eee鹅鹅鹅怪叫鹅\\n翻译: @马拉桑喝酒醉\\n嵌字: @马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"今天开始干女仆\",\"url\":\"/manga/todaymaid/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：カルカン子\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"哥哥变小了\",\"url\":\"/manga/broinkid/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者: 高飛(黑井きりん)\\n图源: @eee鹅鹅鹅怪叫鹅\\n翻译: @马拉桑喝酒醉\\n嵌字: @马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"CAT FOOD\",\"url\":\"/manga/catfood/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：さたけ\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"CANON 4\",\"url\":\"/manga/canon4/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：さたけ\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"CANON 3\",\"url\":\"/manga/canon3/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：さたけ\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"CANON 2\",\"url\":\"/manga/canon2/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：安奈\\n图源：@马拉桑喝酒醉\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"Another Rose\",\"url\":\"/manga/anotherrose/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：安奈 图源：@马拉桑喝酒醉\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"Devil in jail\",\"url\":\"/manga/devilinjail/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：八神\\n图源：@马拉桑喝酒醉\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"Ecloga\",\"url\":\"/manga/1dv8/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：安奈 图源：@马拉桑喝酒醉\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"Ecloga-Clorinde\",\"url\":\"/manga/1dvanna/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：安奈 图源：@马拉桑喝酒醉\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"tg1\",\"url\":\"/manga/tg1/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：安奈 图源：@马拉桑喝酒醉\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"tg2\",\"url\":\"/manga/tg2/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：九堂\\n图源：@马拉桑喝酒醉\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"九堂穿越系列\",\"url\":\"/manga/ntseries/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：さたけ\\n翻译：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"CANON 1\",\"url\":\"/manga/canon1/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：RINDOUMARU 汉化：@祀_沉迷暗表不能自拔 嵌字：@狼千月\\n\",\"rt\":1,\"title\":\"RG·ABSURD LOVERS\",\"url\":\"/manga/royalguard2/\"},{\"author\":null,\"avatar\":null,\"desc\":\"作者：GIN YOTONG 汉化：@马拉桑喝酒醉\\n嵌字：@马拉桑喝酒醉\\n\",\"rt\":1,\"title\":\"RG·NIGHTMARE\",\"url\":\"/manga/royalguard1/\"}]"</script>
+
+
+<script src="/js/fuse.basic.min.js" defer></script>
+
+
+<script defer>
+document.addEventListener('DOMContentLoaded', () => {
+   
+  const raw     = document.getElementById('fuse-objects')?.textContent || '[]'
+  let   objects = JSON.parse(raw)
+  if (!Array.isArray(objects)) objects = Object.values(objects)
+
+  if (objects.length === 0) return   
+
+   
+  const titles = objects.map(o => o.title)
+  const fuse   = new Fuse(titles, { threshold: 0.3 })
+
+  const input = document.getElementById('searchInput')
+  const list  = document.getElementById('searchResults')
+
+  input.addEventListener('input', () => {
+    const kw = input.value.trim()
+    list.innerHTML = ''
+    if (!kw) return
+
+    const hits = fuse.search(kw).slice(0, 20)   
+    if (hits.length === 0) {
+      list.innerHTML = '<li class="text-center text-base-content/60">未找到结果</li>'
+      return
+    }
+
+    hits.forEach(({ refIndex }) => {
+      const it = objects[refIndex]
+      const li = document.createElement('li')
+      li.innerHTML = `
+        <a href="${it.url}" class="card bg-base-100 hover:bg-base-content/10 border border-base-content/30 block">
+          <div class="card-body">
+            <h2 class="card-title">${it.title}</h2>
+            <div>${it.desc}</div>
+
+            <div class="card-actions justify-between items-center mt-4">
+              <div class="flex items-center">
+                ${it.avatar
+                  ? `<div class="avatar mr-1"><div class="w-8 rounded-full"><img src="${it.avatar}" alt="${it.author}" /></div></div>`
+                  : '<span>@</span>'}
+                <span>${it.author || ''}</span>
+              </div>
+              <div class="inline-flex items-center">
+                <ion-icon name="time" class="mr-1"></ion-icon>
+                <span>${it.rt} 分钟阅读</span>
+              </div>
+            </div>
+          </div>
+        </a>`
+      list.appendChild(li)
+    })
+  })
+})
+</script>
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2025 The Shade
+  </p>
+  
+
+  
+  <p class="text-sm">
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+        <div class="back">
+          <div class="container">
+            
+            <div class="dream-grid dream-grid-about">
+  
+  
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">关于本站</div>
+
+        <div class="prose dark:prose-invert">
+          <p>欢迎来到阴影之中^ ^。</p>
+<p>这里是存放DMCDV同人志汉化信息及本体的加密站点——The shade，“于阴影中”。</p>
+<p>囿于简中互联网环境的特殊性，民间汉化几乎无法在版权道德和阅读需求之间达到所谓的“中立”。从选择进行汉化时开始，风险也如影随形。所以，管理员希望借此站点的名字，呼吁来访者不要忘记民间汉化的灰色性质，享受创作的同时，谨言慎行。</p>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">今日密码</div>
+
+        <div class="prose dark:prose-invert">
+          <p>一般向：dmc( )<br>
+(括号中填写1位阿拉伯数字)</p>
+<p>特殊内容：见汉化老师对应微博</p>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">提问箱</div>
+
+        <div class="prose dark:prose-invert">
+          <p>有任何关于站点的疑问，或是有需要汉化的资源，请通过提问箱与管理员联系。</p>
+<p><a href="https://box.n3ko.cc/_/keepdying44" target="_blank">提问箱</a>
+</p>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">注意事项</div>
+
+        <div class="prose dark:prose-invert">
+          <p>来访者请注意以下几点：</p>
+<p>1、在条件允许时，请务必从合法渠道购买同人志本体。</p>
+<p>2、本站资源为同好交流所设，网站入口及发布内容禁止上传外网。</p>
+<p>3、严禁转载、贩卖本站所展示的同人志。一经发现，视具体情况，本站或将对内容做删除处理，必要时做关站处理。</p>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  
+
+  
+
+  
+</div>
+
+            
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2025 The Shade
+  </p>
+  
+
+  
+  <p class="text-sm">
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  window.lightTheme = "emerald"
+  window.darkTheme = "forest"
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+  <script src="/js/grid.js"></script>
+
+
+
+
+<script src="/js/main.js"></script>
+
+     
+
+    
+
+    
+
+    
+
+    
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.esm.js" integrity="sha256-/IFmi82bIhdYWctu0UddSlJqpnzWm7Vh2C4CM32wF/k=" crossorigin="anonymous"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.js" integrity="sha256-mr7eJMX3VC3F7G32mk4oWp1C6a2tlMYxUdptfT7uKI8=" crossorigin="anonymous"></script>
+  </body>
+</html>

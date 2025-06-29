@@ -1,0 +1,41 @@
+baseURL = "/"
+defaultContentLanguage = "zh-cn"
+languageCode = "zh-cn"
+title = "The Shade"
+theme = "hugo-theme-dream"
+
+enableRobotsTXT = false
+
+[params]
+  subtitle = "密会"
+  enableComments = true
+  enableSearch = true
+  enableRSS = false
+  enableGoogleAnalytics = false
+
+
+  showSummaryCoverInPost = true
+  imageZoomableInPost = true
+  darkMode = true
+
+  lightTheme = "emerald"
+  darkTheme = "forest"
+
+  headerTitle = "The Shade"
+  siteStartYear = 2025
+  avatar = "images/avatar.jpg"
+
+  showPrevNextPost = true
+  showTableOfContents = true
+
+[params.advanced]
+customCSS = ["css/custom.css"]
+
+# 支持中文日期
+[params.experimental]
+  jsDate = true
+  jsDateFormat = "yyyy年MM月dd日"
+
+# 每页显示 12 本漫画
+[pagination]
+  pagerSize = 20

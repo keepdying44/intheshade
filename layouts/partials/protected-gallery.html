@@ -1,0 +1,35 @@
+{{ if and .Params.password (ne .RelPermalink "/search/") }}
+<div x-data="{ unlocked: false, password: '', correct: '{{ .Params.password }}' }" class="my-8 text-center">
+
+  <!-- 密码输入 -->
+  <template x-if="!unlocked">
+    <div>
+      <input x-model="password" type="password" placeholder="请输入密码" class="input input-bordered" />
+      <button @click="unlocked = (password === correct)" class="btn btn-primary ml-2">进入</button>
+      <p x-show="password && password !== correct" class="text-red-500 mt-2">密码错误</p>
+    </div>
+  </template>
+
+  <!-- 图片处理 -->
+  {{ $rawPrefix := .Params.imagePrefix }}
+  {{ $prefix := cond (hasSuffix $rawPrefix "/") $rawPrefix (print $rawPrefix "/") }}
+  {{ $count := .Params.imageCount }}
+  {{ $ext := or .Params.imageExt ".jpg" }}
+  {{ $cover := .Params.cover | default "" }}
+  {{ $start := .Params.startIndex | default 0 }}
+
+  {{ if and $prefix $count }}
+  <template x-if="unlocked">
+    <div class="prose max-w-none" @contextmenu.prevent @dragstart.prevent>
+      {{ $end := add $count (sub $start 1) }}
+      {{ range seq $start $end }}
+        {{ $filename := printf "%04d%s" . $ext }}
+        {{ if ne $filename $cover }}
+          <img src="{{ $prefix }}{{ $filename }}" alt="{{ $filename }}" class="my-4 rounded-xl shadow-lg mx-auto max-w-full" loading="lazy" />
+        {{ end }}
+      {{ end }}
+    </div>
+  </template>
+  {{ end }}
+</div>
+{{ end }}

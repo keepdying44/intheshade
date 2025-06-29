@@ -1,0 +1,17 @@
+<div class="flex items-center">
+
+
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  {{ if .Params.author }}
+    {{ if and .Params.authorlink (eq .template "single") }}
+      <a itemprop="url" href="{{ .Params.authorlink }}" target="_blank">
+        <span itemprop="name">{{ .Params.author }}</span>
+      </a>
+    {{ else }}
+      <span itemprop="name">{{ .Params.author }}</span>
+    {{ end }}
+  {{ else }}
+    <span itemprop="name">{{ site.Params.author }}</span>
+  {{ end }}
+  </span>
+</div>

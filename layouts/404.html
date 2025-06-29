@@ -1,0 +1,13 @@
+{{ define "title" }}404 Not Found{{ end }}
+
+{{ define "main" }}
+<div class="h-[60vh] mx-auto px-4 flex flex-col justify-center items-center prose dark:prose-invert">
+  <h1>Oops...You are lost in the light.</h1>
+  <p>Don't worry though, click the button below to embrace the shade.</p>
+ <!-- 确保这是 Hugo 的模板文件，比如 layouts/_default/baseof.html -->
+ <button class="btn my-5" onclick="window.location.href='{{ .Site.BaseURL }}'">
+  bury the light
+</button>
+
+</div>
+{{ end }}

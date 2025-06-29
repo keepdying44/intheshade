@@ -1,0 +1,87 @@
+{{- define "main" }}
+
+<div class="mt-8 lg:mt-12 px-4">
+  <label class="input w-full">
+    <input id="searchInput" type="text" placeholder="keep you searching, hgh?" class="grow" autocomplete="off" />
+    <ion-icon name="search"></ion-icon>
+  </label>
+  <ul id="searchResults" class="space-y-4 mt-4"></ul>
+</div>
+
+<!-- 对象数组 JSON（文章元信息） -->
+<script id="fuse-objects" type="application/json">
+{{- $objs := slice -}}
+{{- range (where site.RegularPages "Type" "in" (slice "post" "manga")) -}}
+  {{- $objs = $objs | append (dict
+      "title"  .Title
+      "url"    .RelPermalink
+      "author" .Params.author
+      "avatar" .Params.avatar
+      "desc"   (or .Description (.Summary | plainify))
+      "rt"     .ReadingTime
+  ) }}
+{{- end -}}
+{{ $objs | jsonify -}}
+</script>
+
+<!-- 本地 fuse.basic.min.js（只索引字符串数组） -->
+<script src="/js/fuse.basic.min.js" defer></script>
+
+<!-- 核心搜索逻辑 -->
+<script defer>
+document.addEventListener('DOMContentLoaded', () => {
+  /* 读取并解析 JSON；若解析成对象则转为数组 */
+  const raw     = document.getElementById('fuse-objects')?.textContent || '[]'
+  let   objects = JSON.parse(raw)
+  if (!Array.isArray(objects)) objects = Object.values(objects)
+
+  if (objects.length === 0) return  /* 无数据直接退出 */
+
+  /* basic 版 Fuse 只能索引字符串数组 */
+  const titles = objects.map(o => o.title)
+  const fuse   = new Fuse(titles, { threshold: 0.3 })
+
+  const input = document.getElementById('searchInput')
+  const list  = document.getElementById('searchResults')
+
+  input.addEventListener('input', () => {
+    const kw = input.value.trim()
+    list.innerHTML = ''
+    if (!kw) return
+
+    const hits = fuse.search(kw).slice(0, 20)   // 最多 20 条
+    if (hits.length === 0) {
+      list.innerHTML = '<li class="text-center text-base-content/60">未找到结果</li>'
+      return
+    }
+
+    hits.forEach(({ refIndex }) => {
+      const it = objects[refIndex]
+      const li = document.createElement('li')
+      li.innerHTML = `
+        <a href="${it.url}" class="card bg-base-100 hover:bg-base-content/10 border border-base-content/30 block">
+          <div class="card-body">
+            <h2 class="card-title">${it.title}</h2>
+            <div>${it.desc}</div>
+
+            <div class="card-actions justify-between items-center mt-4">
+              <div class="flex items-center">
+                ${it.avatar
+                  ? `<div class="avatar mr-1"><div class="w-8 rounded-full"><img src="${it.avatar}" alt="${it.author}" /></div></div>`
+                  : '<span>@</span>'}
+                <span>${it.author || '{{ site.Params.author }}'}</span>
+              </div>
+              <div class="inline-flex items-center">
+                <ion-icon name="time" class="mr-1"></ion-icon>
+                <span>${it.rt} 分钟阅读</span>
+              </div>
+            </div>
+          </div>
+        </a>`
+      list.appendChild(li)
+    })
+  })
+})
+</script>
+
+{{- end }}

@@ -1,0 +1,55 @@
+<a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="{{ .RelPermalink }}">
+
+  {{ $cover := "" }}
+
+  {{/* 1️⃣ 如果 front matter 中写了 cover，则优先使用 */}}
+  {{ if .Params.cover }}
+    {{ with .Resources.Get .Params.cover }}
+      {{ $cover = . }}
+    {{ else }}
+      {{ $cover = resources.Get .Params.cover }}
+    {{ end }}
+  {{ end }}
+
+  {{/* 2️⃣ 如果没有 cover，自动匹配 0001.* 文件 */}}
+  {{ if not $cover }}
+    {{ with .Resources.Match "*0001*" }}
+      {{ $cover = index . 0 }}
+    {{ end }}
+  {{ end }}
+
+  {{/* 3️⃣ 如果都没有，随机默认封面 */}}
+  {{ if not $cover }}
+    {{ with resources.Get (printf "images/default%d.jpg" (index (seq 4 | shuffle) 0)) }}
+      {{ $cover = . }}
+    {{ end }}
+  {{ end }}
+
+  <figure>
+    {{ if $cover }}
+      {{ if eq $cover.MediaType.SubType "svg" }}
+        <img src="{{ $cover.RelPermalink }}" alt="{{ .Title }}" loading="lazy" class="w-full object-cover aspect-[3/4] rounded-t-xl" />
+      {{ else }}
+        <picture>
+          <source srcset="{{ $cover.RelPermalink }}" type="{{ $cover.MediaType.Type }}/{{ $cover.MediaType.SubType }}" />
+          <img src="{{ $cover.RelPermalink }}" alt="{{ .Title }}" loading="lazy" class="w-full object-cover aspect-[3/4] rounded-t-xl" />
+        </picture>
+      {{ end }}
+    {{ else }}
+      <img src="/images/default.jpg" alt="No cover" class="w-full object-cover aspect-[3/4] rounded-t-xl" />
+    {{ end }}
+  </figure>
+
+  <div class="card-body">
+    <h2 class="card-title">{{ .Title }}</h2>
+
+    <p class="date text-base-content/60">
+      {{ if site.Params.Experimental.jsDate }}
+        <span data-format="luxon">{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</span>
+      {{ else }}
+        {{ .Date | time.Format "Monday, Jan 2, 2006" }}
+      {{ end }}
+    </p>
+    
+  </div>
+</a>
