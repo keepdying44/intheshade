@@ -1,7 +1,7 @@
 baseURL = "https://intheshade.mayday44.xyz/"
 defaultContentLanguage = "zh-cn"
 languageCode = "zh-cn"
-title = "The Shade"
+title = "In The Shade"
 theme = "hugo-theme-dream"
 
 enableRobotsTXT = false
@@ -36,6 +36,6 @@ customCSS = ["css/custom.css"]
   jsDate = true
   jsDateFormat = "yyyy年MM月dd日"
 
-# 每页显示 12 本漫画
+# 每页显示x本漫画
 [pagination]
   pagerSize = 20
