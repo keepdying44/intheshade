@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tg on The Shade</title>
-    <link>//localhost:1313/tags/tg/</link>
+    <link>http://localhost:1313/tags/tg/</link>
     <description>Recent content in Tg on The Shade</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 16 Aug 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/tg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another Rose</title>
-      <link>//localhost:1313/manga/anotherrose/</link>
+      <link>http://localhost:1313/manga/anotherrose/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/anotherrose/</guid>
+      <guid>http://localhost:1313/manga/anotherrose/</guid>
       <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>tg1</title>
-      <link>//localhost:1313/manga/tg1/</link>
+      <link>http://localhost:1313/manga/tg1/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/tg1/</guid>
+      <guid>http://localhost:1313/manga/tg1/</guid>
       <description>&lt;p&gt;作者：安奈&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>tg2</title>
-      <link>//localhost:1313/manga/tg2/</link>
+      <link>http://localhost:1313/manga/tg2/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/tg2/</guid>
+      <guid>http://localhost:1313/manga/tg2/</guid>
       <description>&lt;p&gt;作者：安奈&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
   </channel>

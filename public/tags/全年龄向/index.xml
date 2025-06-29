@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>全年龄向 on The Shade</title>
-    <link>//localhost:1313/tags/%E5%85%A8%E5%B9%B4%E9%BE%84%E5%90%91/</link>
+    <link>http://localhost:1313/tags/%E5%85%A8%E5%B9%B4%E9%BE%84%E5%90%91/</link>
     <description>Recent content in 全年龄向 on The Shade</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 27 Oct 2013 18:08:01 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/%E5%85%A8%E5%B9%B4%E9%BE%84%E5%90%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%85%A8%E5%B9%B4%E9%BE%84%E5%90%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BY MY SIDE</title>
-      <link>//localhost:1313/manga/bymyside/</link>
+      <link>http://localhost:1313/manga/bymyside/</link>
       <pubDate>Sun, 27 Oct 2013 18:08:01 +0000</pubDate>
-      <guid>//localhost:1313/manga/bymyside/</guid>
+      <guid>http://localhost:1313/manga/bymyside/</guid>
       <description>&lt;p&gt;作者：ゆのぱんちゃこ&lt;br&gt;&#xA;图源：@Qc&lt;br&gt;&#xA;翻译：@悍匪萌新&lt;br&gt;&#xA;嵌字：@Qc&lt;/p&gt;</description>
     </item>
   </channel>

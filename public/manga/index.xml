@@ -2,192 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mangas on The Shade</title>
-    <link>//localhost:1313/manga/</link>
+    <link>http://localhost:1313/manga/</link>
     <description>Recent content in Mangas on The Shade</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/manga/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/manga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DANCE ON MY GRAVE（tommy part）</title>
-      <link>//localhost:1313/manga/danceonmygravetommy/</link>
+      <link>http://localhost:1313/manga/danceonmygravetommy/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/danceonmygravetommy/</guid>
+      <guid>http://localhost:1313/manga/danceonmygravetommy/</guid>
       <description>&lt;p&gt;作者: tommy&lt;br&gt;&#xA;翻译: 魅宅汉化组&lt;br&gt;&#xA;嵌字: 魅宅汉化组&lt;/p&gt;</description>
     </item>
     <item>
       <title>DANCE ON MY GRAVE（眼带）</title>
-      <link>//localhost:1313/manga/danceonmygrave1/</link>
+      <link>http://localhost:1313/manga/danceonmygrave1/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/danceonmygrave1/</guid>
+      <guid>http://localhost:1313/manga/danceonmygrave1/</guid>
       <description>&lt;p&gt;作者：Folgore&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>片山愁特辑</title>
-      <link>//localhost:1313/manga/psc2/</link>
+      <link>http://localhost:1313/manga/psc2/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/psc2/</guid>
+      <guid>http://localhost:1313/manga/psc2/</guid>
       <description>&lt;p&gt;作者：片山愁&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>片山愁特辑·小豆丁哥哥</title>
-      <link>//localhost:1313/manga/psc/</link>
+      <link>http://localhost:1313/manga/psc/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/psc/</guid>
+      <guid>http://localhost:1313/manga/psc/</guid>
       <description>&lt;p&gt;作者：片山愁&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>love song</title>
-      <link>//localhost:1313/manga/lovesong/</link>
+      <link>http://localhost:1313/manga/lovesong/</link>
       <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/lovesong/</guid>
+      <guid>http://localhost:1313/manga/lovesong/</guid>
       <description>&lt;p&gt;作者：宗六&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>UMA</title>
-      <link>//localhost:1313/manga/uma/</link>
+      <link>http://localhost:1313/manga/uma/</link>
       <pubDate>Sun, 18 Dec 2022 18:12:05 +0000</pubDate>
-      <guid>//localhost:1313/manga/uma/</guid>
+      <guid>http://localhost:1313/manga/uma/</guid>
       <description>&lt;p&gt;作者：宗六&lt;br&gt;&#xA;图源: @Qc&lt;br&gt;&#xA;翻译: @萌新悍匪&lt;br&gt;&#xA;嵌字: @Qc&lt;/p&gt;</description>
     </item>
     <item>
       <title>TAKE ME TO CHURCH</title>
-      <link>//localhost:1313/manga/takemetochurch/</link>
+      <link>http://localhost:1313/manga/takemetochurch/</link>
       <pubDate>Sat, 19 Oct 2019 18:11:11 +0000</pubDate>
-      <guid>//localhost:1313/manga/takemetochurch/</guid>
+      <guid>http://localhost:1313/manga/takemetochurch/</guid>
       <description>&lt;p&gt;作者：モスマン&lt;br&gt;&#xA;图源: @Qc&lt;br&gt;&#xA;翻译: @路过的匿名&lt;br&gt;&#xA;嵌字: @Qc&lt;/p&gt;</description>
     </item>
     <item>
       <title>赤の他人だったらどれほど</title>
-      <link>//localhost:1313/manga/strangers/</link>
+      <link>http://localhost:1313/manga/strangers/</link>
       <pubDate>Mon, 14 Oct 2019 20:10:15 +0000</pubDate>
-      <guid>//localhost:1313/manga/strangers/</guid>
+      <guid>http://localhost:1313/manga/strangers/</guid>
       <description>&lt;p&gt;作者：えふ&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>Like a dream</title>
-      <link>//localhost:1313/manga/likeadream/</link>
+      <link>http://localhost:1313/manga/likeadream/</link>
       <pubDate>Sun, 25 Aug 2019 18:09:49 +0000</pubDate>
-      <guid>//localhost:1313/manga/likeadream/</guid>
+      <guid>http://localhost:1313/manga/likeadream/</guid>
       <description>&lt;p&gt;作者: 梅吉&lt;br&gt;&#xA;图源: @Qc&lt;br&gt;&#xA;翻译: @悍匪萌新&lt;br&gt;&#xA;嵌字: @Qc&lt;/p&gt;</description>
     </item>
     <item>
       <title>BY MY SIDE</title>
-      <link>//localhost:1313/manga/bymyside/</link>
+      <link>http://localhost:1313/manga/bymyside/</link>
       <pubDate>Sun, 27 Oct 2013 18:08:01 +0000</pubDate>
-      <guid>//localhost:1313/manga/bymyside/</guid>
+      <guid>http://localhost:1313/manga/bymyside/</guid>
       <description>&lt;p&gt;作者：ゆのぱんちゃこ&lt;br&gt;&#xA;图源：@Qc&lt;br&gt;&#xA;翻译：@悍匪萌新&lt;br&gt;&#xA;嵌字：@Qc&lt;/p&gt;</description>
     </item>
     <item>
       <title>今天开始干女仆</title>
-      <link>//localhost:1313/manga/todaymaid/</link>
+      <link>http://localhost:1313/manga/todaymaid/</link>
       <pubDate>Fri, 03 May 2013 20:10:15 +0000</pubDate>
-      <guid>//localhost:1313/manga/todaymaid/</guid>
+      <guid>http://localhost:1313/manga/todaymaid/</guid>
       <description>&lt;p&gt;作者: 苍井ゆうま·カルカン子&lt;br&gt;&#xA;图源: @eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译: @马拉桑喝酒醉&lt;br&gt;&#xA;嵌字: @马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>哥哥变小了</title>
-      <link>//localhost:1313/manga/broinkid/</link>
+      <link>http://localhost:1313/manga/broinkid/</link>
       <pubDate>Sun, 17 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/broinkid/</guid>
+      <guid>http://localhost:1313/manga/broinkid/</guid>
       <description>&lt;p&gt;作者：カルカン子&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>CAT FOOD</title>
-      <link>//localhost:1313/manga/catfood/</link>
+      <link>http://localhost:1313/manga/catfood/</link>
       <pubDate>Thu, 29 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/catfood/</guid>
+      <guid>http://localhost:1313/manga/catfood/</guid>
       <description>&lt;p&gt;作者: 高飛(黑井きりん)&lt;br&gt;&#xA;图源: @eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译: @马拉桑喝酒醉&lt;br&gt;&#xA;嵌字: @马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>CANON 4</title>
-      <link>//localhost:1313/manga/canon4/</link>
+      <link>http://localhost:1313/manga/canon4/</link>
       <pubDate>Tue, 29 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/canon4/</guid>
+      <guid>http://localhost:1313/manga/canon4/</guid>
       <description>&lt;p&gt;作者：さたけ&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>CANON 3</title>
-      <link>//localhost:1313/manga/canon3/</link>
+      <link>http://localhost:1313/manga/canon3/</link>
       <pubDate>Sat, 15 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/canon3/</guid>
+      <guid>http://localhost:1313/manga/canon3/</guid>
       <description>&lt;p&gt;作者：さたけ&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>CANON 2</title>
-      <link>//localhost:1313/manga/canon2/</link>
+      <link>http://localhost:1313/manga/canon2/</link>
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/canon2/</guid>
+      <guid>http://localhost:1313/manga/canon2/</guid>
       <description>&lt;p&gt;作者：さたけ&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>Another Rose</title>
-      <link>//localhost:1313/manga/anotherrose/</link>
+      <link>http://localhost:1313/manga/anotherrose/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/anotherrose/</guid>
+      <guid>http://localhost:1313/manga/anotherrose/</guid>
       <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>Devil in jail</title>
-      <link>//localhost:1313/manga/devilinjail/</link>
+      <link>http://localhost:1313/manga/devilinjail/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/devilinjail/</guid>
+      <guid>http://localhost:1313/manga/devilinjail/</guid>
       <description>&lt;p&gt;作者：安奈&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ecloga</title>
-      <link>//localhost:1313/manga/1dv8/</link>
+      <link>http://localhost:1313/manga/1dv8/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/1dv8/</guid>
+      <guid>http://localhost:1313/manga/1dv8/</guid>
       <description>&lt;p&gt;作者：八神&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ecloga-Clorinde</title>
-      <link>//localhost:1313/manga/1dvanna/</link>
+      <link>http://localhost:1313/manga/1dvanna/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/1dvanna/</guid>
+      <guid>http://localhost:1313/manga/1dvanna/</guid>
       <description>&lt;p&gt;作者：安奈&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>tg1</title>
-      <link>//localhost:1313/manga/tg1/</link>
+      <link>http://localhost:1313/manga/tg1/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/tg1/</guid>
+      <guid>http://localhost:1313/manga/tg1/</guid>
       <description>&lt;p&gt;作者：安奈&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>tg2</title>
-      <link>//localhost:1313/manga/tg2/</link>
+      <link>http://localhost:1313/manga/tg2/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/tg2/</guid>
+      <guid>http://localhost:1313/manga/tg2/</guid>
       <description>&lt;p&gt;作者：安奈&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>九堂穿越系列</title>
-      <link>//localhost:1313/manga/ntseries/</link>
+      <link>http://localhost:1313/manga/ntseries/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/ntseries/</guid>
+      <guid>http://localhost:1313/manga/ntseries/</guid>
       <description>&lt;p&gt;作者：九堂&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>CANON 1</title>
-      <link>//localhost:1313/manga/canon1/</link>
+      <link>http://localhost:1313/manga/canon1/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/manga/canon1/</guid>
+      <guid>http://localhost:1313/manga/canon1/</guid>
       <description>&lt;p&gt;作者：さたけ&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>RG·ABSURD LOVERS</title>
-      <link>//localhost:1313/manga/royalguard2/</link>
+      <link>http://localhost:1313/manga/royalguard2/</link>
       <pubDate>Thu, 06 Jan 2005 14:37:47 +0000</pubDate>
-      <guid>//localhost:1313/manga/royalguard2/</guid>
+      <guid>http://localhost:1313/manga/royalguard2/</guid>
       <description>&lt;p&gt;作者：RINDOUMARU&#xA;汉化：@祀_沉迷暗表不能自拔&#xA;嵌字：@狼千月&lt;/p&gt;</description>
     </item>
     <item>
       <title>RG·NIGHTMARE</title>
-      <link>//localhost:1313/manga/royalguard1/</link>
+      <link>http://localhost:1313/manga/royalguard1/</link>
       <pubDate>Thu, 06 Jan 2005 14:37:47 +0000</pubDate>
-      <guid>//localhost:1313/manga/royalguard1/</guid>
+      <guid>http://localhost:1313/manga/royalguard1/</guid>
       <description>&lt;p&gt;作者：GIN YOTONG&#xA;汉化：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
   </channel>
