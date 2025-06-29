@@ -8,7 +8,7 @@ tags:
   - 女装
 imagePrefix: "https://mayday44.xyz/todaymaid/"  
 imageCount: 17
-imageExt: ".jpg" 
+imageExt: ".png" 
 startIndex: 2
 ---
 作者: 苍井ゆうま·カルカン子  
