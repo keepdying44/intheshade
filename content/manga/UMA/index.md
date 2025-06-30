@@ -3,7 +3,7 @@ title: "UMA"
 date: 2022-12-18 18:12:05
 draft: false
 password: dmc6
-imagePrefix: "https://mayday44.xyz/UMA/0001.webp"  
+imagePrefix: "https://mayday44.xyz/UMA/"  
 imageCount: 18
 imageExt: ".webp" 
 startIndex: 1
