@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/tags/%E5%90%88%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ecloga</title>
-      <link>http://localhost:1313/manga/eclogacomplete/</link>
+      <link>http://localhost:1313/manga/ecloga/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/eclogacomplete/</guid>
-      <description>&lt;p&gt;作者：八神&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+      <guid>http://localhost:1313/manga/ecloga/</guid>
+      <description>&lt;p&gt;作者：依次为&lt;br&gt;&#xA;麦子（插画，1张）&lt;br&gt;&#xA;ともなし（插画，3张）&lt;br&gt;&#xA;游里（漫画）-Fillmoon&lt;br&gt;&#xA;おおした莲（漫画）-邂逅&lt;br&gt;&#xA;千石鹿丸（插画，1张）&lt;br&gt;&#xA;安奈（漫画）-Clorinde&lt;br&gt;&#xA;钝红（漫画）-伊卡洛斯的太阳&lt;br&gt;&#xA;八神（漫画）-Beast&lt;br&gt;&#xA;图源：@eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

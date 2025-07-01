@@ -1,5 +1,5 @@
 ---
-title: "tg2"
+title: "Tony & Gilver 2"
 date: 2008-08-16
 password: dmc6
 draft: false
