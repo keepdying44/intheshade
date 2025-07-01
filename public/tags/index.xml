@@ -51,13 +51,6 @@
       <description></description>
     </item>
     <item>
-      <title>1dv</title>
-      <link>http://localhost:1313/tags/1dv/</link>
-      <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/1dv/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tg</title>
       <link>http://localhost:1313/tags/tg/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
@@ -65,10 +58,24 @@
       <description></description>
     </item>
     <item>
+      <title>合志</title>
+      <link>http://localhost:1313/tags/%E5%90%88%E5%BF%97/</link>
+      <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%90%88%E5%BF%97/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>一代前</title>
       <link>http://localhost:1313/tags/%E4%B8%80%E4%BB%A3%E5%89%8D/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E4%B8%80%E4%BB%A3%E5%89%8D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1dv</title>
+      <link>http://localhost:1313/tags/1dv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/1dv/</guid>
       <description></description>
     </item>
   </channel>
