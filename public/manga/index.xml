@@ -197,5 +197,12 @@
       <guid>http://localhost:1313/manga/royalguard1/</guid>
       <description>&lt;p&gt;作者：GIN YOTONG&#xA;汉化：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/manga/freedeviljam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/freedeviljam/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
