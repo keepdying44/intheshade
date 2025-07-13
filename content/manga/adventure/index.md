@@ -1,6 +1,6 @@
 ---
 title: "地窖间谍大作战"
-date: 2012-08-16
+date: 2015-08-14
 password: dmc6
 draft: false
 type: "manga"
