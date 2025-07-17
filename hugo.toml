@@ -12,6 +12,7 @@ enableRobotsTXT = false
   enableSearch = true
   enableRSS = false
   enableGoogleAnalytics = false
+  favicon = "/images/favicon.ico"
 
 
   showSummaryCoverInPost = true

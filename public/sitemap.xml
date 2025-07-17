@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/r18/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/youshalldie/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/4dv/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,18 +24,6 @@
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/danceonmygrave1/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/r18/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/psc2/</loc>
@@ -50,6 +53,12 @@
     <loc>http://localhost:1313/manga/likeadream/</loc>
     <lastmod>2019-08-25T18:09:49+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/tg/</loc>
+    <lastmod>2015-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/adventure/</loc>
+    <lastmod>2015-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/3dv/</loc>
     <lastmod>2013-10-27T18:08:01+00:00</lastmod>
   </url><url>
@@ -67,6 +76,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/broinkid/</loc>
     <lastmod>2013-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/freedeviljam/</loc>
+    <lastmod>2012-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/catfood/</loc>
     <lastmod>2011-12-29T00:00:00+00:00</lastmod>
@@ -89,9 +101,6 @@
     <loc>http://localhost:1313/manga/ecloga/</loc>
     <lastmod>2008-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tg/</loc>
-    <lastmod>2008-08-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/manga/tg1/</loc>
     <lastmod>2008-08-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -110,6 +119,9 @@
     <loc>http://localhost:1313/manga/canon1/</loc>
     <lastmod>2008-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/diamond/</loc>
+    <lastmod>2007-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/tristessesdelalune/</loc>
     <lastmod>2006-06-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -118,8 +130,6 @@
   </url><url>
     <loc>http://localhost:1313/manga/royalguard1/</loc>
     <lastmod>2005-01-06T14:37:47+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/freedeviljam/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
