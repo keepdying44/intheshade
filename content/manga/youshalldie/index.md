@@ -1,6 +1,6 @@
 ---
 title: "YOU SHALL DIE"
-date: 2025-07-03
+date: 2012-07-03
 draft: false
 password: dmc6
 tags: 
