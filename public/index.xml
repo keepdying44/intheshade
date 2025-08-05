@@ -44,13 +44,6 @@
       <description>&lt;p&gt;作者：片山愁&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
-      <title>love song</title>
-      <link>http://localhost:1313/manga/lovesong/</link>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/lovesong/</guid>
-      <description>&lt;p&gt;作者：宗六&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>UMA</title>
       <link>http://localhost:1313/manga/uma/</link>
       <pubDate>Sun, 18 Dec 2022 18:12:05 +0000</pubDate>
@@ -58,11 +51,11 @@
       <description>&lt;p&gt;作者：宗六&lt;br&gt;&#xA;图源: @Qc&lt;br&gt;&#xA;翻译: @萌新悍匪&lt;br&gt;&#xA;嵌字: @Qc&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Wintry Wonder</title>
-      <link>http://localhost:1313/manga/wintrywonder/</link>
-      <pubDate>Sun, 18 Dec 2022 18:12:05 +0000</pubDate>
-      <guid>http://localhost:1313/manga/wintrywonder/</guid>
-      <description>&lt;p&gt;作者: 伊藤真美&lt;br&gt;&#xA;图源: 柠檬树蛙&lt;br&gt;&#xA;翻译: @马拉桑喝酒醉&lt;br&gt;&#xA;嵌字: 柠檬树蛙&lt;/p&gt;</description>
+      <title>love song</title>
+      <link>http://localhost:1313/manga/lovesong/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/lovesong/</guid>
+      <description>&lt;p&gt;作者：宗六&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>TAKE ME TO CHURCH</title>
@@ -93,6 +86,13 @@
       <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：柠檬树蛙&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：柠檬树蛙&lt;/p&gt;</description>
     </item>
     <item>
+      <title>TONY ON STAGE</title>
+      <link>http://localhost:1313/manga/tonyonstage/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/tonyonstage/</guid>
+      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>BY MY SIDE</title>
       <link>http://localhost:1313/manga/bymyside/</link>
       <pubDate>Sun, 27 Oct 2013 18:08:01 +0000</pubDate>
@@ -121,11 +121,11 @@
       <description>&lt;p&gt;作者：カルカン子&lt;br&gt;&#xA;图源：@eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
-      <title>FREE DEVIL JAM</title>
-      <link>http://localhost:1313/manga/freedeviljam/</link>
-      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/freedeviljam/</guid>
-      <description>&lt;p&gt;作者：秋藏&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉 &lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+      <title>Devil in jail</title>
+      <link>http://localhost:1313/manga/tg-devilinjail/</link>
+      <pubDate>Tue, 11 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/tg-devilinjail/</guid>
+      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>YOU SHALL DIE</title>
@@ -142,25 +142,11 @@
       <description>&lt;p&gt;作者: 高飛(黑井きりん)&lt;br&gt;&#xA;图源: @eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译: @马拉桑喝酒醉&lt;br&gt;&#xA;嵌字: @马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
-      <title>SNOW WHITE</title>
-      <link>http://localhost:1313/manga/tg-sonwwhite/</link>
-      <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/tg-sonwwhite/</guid>
-      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@今天早上吃麵包 &lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>CANON 4</title>
       <link>http://localhost:1313/manga/canon4/</link>
       <pubDate>Tue, 29 Dec 2009 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/canon4/</guid>
       <description>&lt;p&gt;作者：さたけ&lt;br&gt;&#xA;图源：@今天早上吃麵包&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tony &amp; Gilver 4</title>
-      <link>http://localhost:1313/manga/tg4/</link>
-      <pubDate>Sun, 16 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/tg4/</guid>
-      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>CANON 3</title>
@@ -170,32 +156,11 @@
       <description>&lt;p&gt;作者：さたけ&lt;br&gt;&#xA;图源：@eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
-      <title>某位父亲的肖像</title>
-      <link>http://localhost:1313/manga/tg-fathersportrait/</link>
-      <pubDate>Sat, 15 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/tg-fathersportrait/</guid>
-      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@今天早上吃麵包 &lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tony &amp; Gilver 3 - DIAMOND ERECTION</title>
-      <link>http://localhost:1313/manga/tg3-diamond/</link>
-      <pubDate>Fri, 14 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/tg3-diamond/</guid>
-      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：柠檬树蛙&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>CANON 2</title>
       <link>http://localhost:1313/manga/canon2/</link>
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/canon2/</guid>
       <description>&lt;p&gt;作者：さたけ&lt;br&gt;&#xA;图源：柠檬树蛙&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Another Rose</title>
-      <link>http://localhost:1313/manga/tg-anotherrose/</link>
-      <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/tg-anotherrose/</guid>
-      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ecloga</title>
@@ -205,13 +170,6 @@
       <description>&lt;p&gt;作者：依次为&lt;br&gt;&#xA;麦子（插画，1张）&lt;br&gt;&#xA;ともなし（插画，3张）&lt;br&gt;&#xA;游里（漫画）-Fillmoon&lt;br&gt;&#xA;おおした莲（漫画）-邂逅&lt;br&gt;&#xA;千石鹿丸（插画，1张）&lt;br&gt;&#xA;安奈（漫画）-Clorinde&lt;br&gt;&#xA;钝红（漫画）-伊卡洛斯的太阳&lt;br&gt;&#xA;八神（漫画）-Beast&lt;br&gt;&#xA;图源：@eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tony &amp; Gilver 2</title>
-      <link>http://localhost:1313/manga/tg2/</link>
-      <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/tg2/</guid>
-      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>九堂穿越系列</title>
       <link>http://localhost:1313/manga/ntseries/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
@@ -219,18 +177,11 @@
       <description>&lt;p&gt;作者：九堂&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tony &amp; Gilver</title>
-      <link>http://localhost:1313/manga/tg1/</link>
-      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/tg1/</guid>
+      <title>某位父亲的肖像</title>
+      <link>http://localhost:1313/manga/tg-fathersportrait/</link>
+      <pubDate>Fri, 15 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/tg-fathersportrait/</guid>
       <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@今天早上吃麵包 &lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Devil in jail</title>
-      <link>http://localhost:1313/manga/tg-devilinjail/</link>
-      <pubDate>Mon, 11 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/tg-devilinjail/</guid>
-      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>CANON 1</title>
@@ -240,11 +191,67 @@
       <description>&lt;p&gt;作者：さたけ&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Another Rose</title>
+      <link>http://localhost:1313/manga/tg-anotherrose/</link>
+      <pubDate>Sun, 16 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/tg-anotherrose/</guid>
+      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tony &amp; Gilver 4</title>
+      <link>http://localhost:1313/manga/tg4/</link>
+      <pubDate>Sun, 16 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/tg4/</guid>
+      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SNOW WHITE</title>
+      <link>http://localhost:1313/manga/tg-sonwwhite/</link>
+      <pubDate>Sat, 15 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/tg-sonwwhite/</guid>
+      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@今天早上吃麵包 &lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tony &amp; Gilver 3 - DIAMOND ERECTION</title>
+      <link>http://localhost:1313/manga/tg3-diamond/</link>
+      <pubDate>Wed, 14 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/tg3-diamond/</guid>
+      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：柠檬树蛙&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FREE DEVIL JAM</title>
+      <link>http://localhost:1313/manga/freedeviljam/</link>
+      <pubDate>Mon, 14 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/freedeviljam/</guid>
+      <description>&lt;p&gt;作者：秋藏&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉 &lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tony &amp; Gilver 2</title>
+      <link>http://localhost:1313/manga/tg2/</link>
+      <pubDate>Tue, 05 Dec 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/tg2/</guid>
+      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tony &amp; Gilver</title>
+      <link>http://localhost:1313/manga/tg1/</link>
+      <pubDate>Mon, 03 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/tg1/</guid>
+      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@今天早上吃麵包 &lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>月亮的哀愁</title>
       <link>http://localhost:1313/manga/tristessesdelalune/</link>
       <pubDate>Sat, 03 Jun 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/tristessesdelalune/</guid>
       <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wintry Wonder</title>
+      <link>http://localhost:1313/manga/wintrywonder/</link>
+      <pubDate>Thu, 29 Dec 2005 18:12:05 +0000</pubDate>
+      <guid>http://localhost:1313/manga/wintrywonder/</guid>
+      <description>&lt;p&gt;作者: 伊藤真美&lt;br&gt;&#xA;图源: 柠檬树蛙&lt;br&gt;&#xA;翻译: @马拉桑喝酒醉&lt;br&gt;&#xA;嵌字: 柠檬树蛙&lt;/p&gt;</description>
     </item>
     <item>
       <title>RG·ABSURD LOVERS</title>

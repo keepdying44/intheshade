@@ -1,6 +1,6 @@
 ---
 title: "Tony & Gilver 2"
-date: 2008-08-16
+date: 2006-12-05
 password: dmc6
 draft: false
 type: "manga"

@@ -16,18 +16,18 @@
       <description>&lt;p&gt;作者：ゆのぱんちゃこ&lt;br&gt;&#xA;图源：@Qc&lt;br&gt;&#xA;翻译：@悍匪萌新&lt;br&gt;&#xA;嵌字：@Qc&lt;/p&gt;</description>
     </item>
     <item>
-      <title>FREE DEVIL JAM</title>
-      <link>http://localhost:1313/manga/freedeviljam/</link>
-      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/freedeviljam/</guid>
-      <description>&lt;p&gt;作者：秋藏&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉 &lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>九堂穿越系列</title>
       <link>http://localhost:1313/manga/ntseries/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/ntseries/</guid>
       <description>&lt;p&gt;作者：九堂&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FREE DEVIL JAM</title>
+      <link>http://localhost:1313/manga/freedeviljam/</link>
+      <pubDate>Mon, 14 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/freedeviljam/</guid>
+      <description>&lt;p&gt;作者：秋藏&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉 &lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

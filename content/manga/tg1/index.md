@@ -1,6 +1,6 @@
 ---
 title: "Tony & Gilver"
-date: 2008-08-13
+date: 2006-07-03
 password: dmc6
 draft: false
 type: "manga"

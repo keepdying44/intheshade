@@ -1,6 +1,6 @@
 ---
 title: "SNOW WHITE"
-date: 2010-08-15
+date: 2008-03-15
 password: dmc6
 draft: false
 type: "manga"

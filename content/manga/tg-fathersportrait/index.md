@@ -1,6 +1,6 @@
 ---
 title: "某位父亲的肖像"
-date: 2009-08-15
+date: 2008-08-15
 password: dmc6
 draft: false
 type: "manga"

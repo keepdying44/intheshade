@@ -1,6 +1,6 @@
 ---
 title: "FREE DEVIL JAM"
-date: 2012-08-16
+date: 2007-05-14
 password: dmc6
 draft: false
 type: "manga"

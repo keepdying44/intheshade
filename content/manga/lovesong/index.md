@@ -1,6 +1,6 @@
 ---
 title: "love song"
-date: 2024-09-22 00:00:00
+date: 2022-05-29 00:00:00
 draft: false
 password: dmc6
 imagePrefix: "https://mayday44.xyz/lovesong/"  

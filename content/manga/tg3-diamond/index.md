@@ -1,6 +1,6 @@
 ---
 title: "Tony & Gilver 3 - DIAMOND ERECTION"
-date: 2009-08-14
+date: 2007-11-14
 password: dmc6
 draft: false
 type: "manga"
