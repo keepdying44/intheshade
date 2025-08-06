@@ -1,6 +1,6 @@
 ---
 title: "DANCE ON MY GRAVE（tommy part）"
-date: 2025-05-01
+date: 2010-12-29
 draft: false
 password: dmc6
 tags: 

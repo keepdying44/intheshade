@@ -11,18 +11,6 @@
     <loc>http://localhost:1313/manga/succubus/</loc>
     <lastmod>2025-05-04T18:11:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/4dv/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/danceonmygravetommy/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/danceonmygrave1/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/r18/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,6 +44,9 @@
     <loc>http://localhost:1313/manga/tg-adventure/</loc>
     <lastmod>2015-08-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/tonyonstage/</loc>
+    <lastmod>2015-05-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/3dv/</loc>
     <lastmod>2013-10-27T18:08:01+00:00</lastmod>
   </url><url>
@@ -64,6 +55,9 @@
   </url><url>
     <loc>http://localhost:1313/tags/%E5%85%A8%E5%B9%B4%E9%BE%84%E5%90%91/</loc>
     <lastmod>2013-10-27T18:08:01+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/r18/</loc>
+    <lastmod>2013-05-03T20:10:15+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/todaymaid/</loc>
     <lastmod>2013-05-03T20:10:15+00:00</lastmod>
@@ -83,11 +77,23 @@
     <loc>http://localhost:1313/tags/%E4%B8%80%E4%BB%A3%E5%89%8D/</loc>
     <lastmod>2012-12-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/bestia/</loc>
+    <lastmod>2012-08-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/youshalldie/</loc>
     <lastmod>2012-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/catfood/</loc>
     <lastmod>2011-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/4dv/</loc>
+    <lastmod>2010-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/danceonmygravetommy/</loc>
+    <lastmod>2010-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/danceonmygrave1/</loc>
+    <lastmod>2010-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/canon4/</loc>
     <lastmod>2009-12-29T00:00:00+00:00</lastmod>

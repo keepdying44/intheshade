@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tg on In The Shade</title>
+    <title>TG on In The Shade</title>
     <link>http://localhost:1313/tags/tg/</link>
-    <description>Recent content in Tg on In The Shade</description>
+    <description>Recent content in TG on In The Shade</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 14 Aug 2015 00:00:00 +0000</lastBuildDate>
@@ -14,6 +14,20 @@
       <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/tg-adventure/</guid>
       <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：柠檬树蛙&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：柠檬树蛙&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TONY ON STAGE</title>
+      <link>http://localhost:1313/manga/tonyonstage/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/tonyonstage/</guid>
+      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bestia</title>
+      <link>http://localhost:1313/manga/bestia/</link>
+      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/bestia/</guid>
+      <description>&lt;p&gt;作者：八神あやめ&lt;br&gt;&#xA;图源：@今天早上吃麵包&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>某位父亲的肖像</title>
@@ -27,7 +41,7 @@
       <link>http://localhost:1313/manga/tg-anotherrose/</link>
       <pubDate>Sun, 16 Mar 2008 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/tg-anotherrose/</guid>
-      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+      <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;图源：阿黑（冥黑无爱） &lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tony &amp; Gilver 4</title>
