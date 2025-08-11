@@ -47,6 +47,15 @@
     <loc>http://localhost:1313/manga/tonyonstage/</loc>
     <lastmod>2015-05-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/immoralcompilation/</loc>
+    <lastmod>2014-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/costumepalyxxx/</loc>
+    <lastmod>2014-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/withyoueverthingfine/</loc>
+    <lastmod>2014-01-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/3dv/</loc>
     <lastmod>2013-10-27T18:08:01+00:00</lastmod>
   </url><url>
@@ -95,11 +104,26 @@
     <loc>http://localhost:1313/manga/danceonmygrave1/</loc>
     <lastmod>2010-12-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/trickster/</loc>
+    <lastmod>2010-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/beautifulcatlife/</loc>
+    <lastmod>2010-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/curiosity/</loc>
+    <lastmod>2010-08-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/canon4/</loc>
     <lastmod>2009-12-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/glasses/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/canon3/</loc>
     <lastmod>2009-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/yu/</loc>
+    <lastmod>2008-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/canon2/</loc>
     <lastmod>2008-12-01T00:00:00+00:00</lastmod>
@@ -118,6 +142,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/canon1/</loc>
     <lastmod>2008-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/playwithyou/</loc>
+    <lastmod>2008-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/tg-anotherrose/</loc>
     <lastmod>2008-03-16T00:00:00+00:00</lastmod>
