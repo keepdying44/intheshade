@@ -3,13 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/</loc>
-    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/succubus/</loc>
-    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
