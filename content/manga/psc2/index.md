@@ -1,6 +1,6 @@
 ---
 title: "片山愁特辑"
-date: 2025-05-01
+date: 2009-05-01
 draft: false
 password: dmc6
 tags: 
