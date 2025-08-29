@@ -11,6 +11,7 @@ imageExt: ".png"
 startIndex: 1
 ---
 作者：八神あやめ  
+社团：Amethyst  
 图源：柠檬树蛙  
 翻译：@马拉桑喝酒醉  
 嵌字：柠檬树蛙

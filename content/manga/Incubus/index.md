@@ -9,6 +9,7 @@ imageExt: ".jpg"
 startIndex: 0
 ---
 作者：ika  
+社团：IKAYAKI  
 图源：锤锤  
 翻译：有线转生  
 嵌字：有线转生  

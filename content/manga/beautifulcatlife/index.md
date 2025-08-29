@@ -11,7 +11,8 @@ imageCount: 37
 imageExt: ".jpg" 
 startIndex: 1
 ---
-作者：高飛 (黑井きりん) （guest 安本ネグ）  
+作者：黑井きりん（guest 安本ネグ） 
+社团：高飛 
 图源：阿黑（冥黑无爱）  
 修图：螺Korone  
 翻译：Ecila_pad  

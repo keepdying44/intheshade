@@ -10,6 +10,7 @@ imageCount: 56
 imageExt: ".png" 
 startIndex: 0
 ---
-作者：YUNOPANCHAKO    
+作者：ゆのぱんちゃこ  
+社团：猫大好き  
 翻译：失忆症   
 嵌字：失忆症  

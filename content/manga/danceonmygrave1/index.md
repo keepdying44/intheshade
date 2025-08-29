@@ -12,6 +12,7 @@ imageExt: ".jpg"
 startIndex: 1
 ---
 作者：眼帯ヒゲマニア  
+社团：Folgore  
 图源：@eee鹅鹅鹅怪叫鹅  
 翻译：@马拉桑喝酒醉  
 嵌字：@马拉桑喝酒醉

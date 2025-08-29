@@ -10,6 +10,7 @@ imageCount: 21
 imageExt: ".jpg" 
 startIndex: 1
 ---
-作者: tommy  
+作者：トミタ  
+社团：TOMMY  
 翻译: 魅宅汉化组  
 嵌字: 魅宅汉化组

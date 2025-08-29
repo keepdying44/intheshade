@@ -12,6 +12,7 @@ imageExt: ".jpg"
 startIndex: 1
 ---
 作者：八神あやめ  
+社团：Amethyst  
 图源：@今天早上吃麵包  
 翻译：@马拉桑喝酒醉  
 嵌字：@马拉桑喝酒醉

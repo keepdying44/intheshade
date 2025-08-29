@@ -13,6 +13,7 @@ imageCount: 26
 imageExt: ".webp" 
 ---
 作者：ゆのぱんちゃこ  
+社团：猫大好き  
 图源：@Qc  
 翻译：@悍匪萌新  
 嵌字：@Qc
