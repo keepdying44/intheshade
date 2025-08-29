@@ -3,22 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/psc2/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/psc/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%9B%BE%E9%9B%86/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/manga/incubus/</loc>
+    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/uma/</loc>
     <lastmod>2022-12-18T18:12:05+00:00</lastmod>
@@ -34,6 +25,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/likeadream/</loc>
     <lastmod>2019-08-25T18:09:49+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2015-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tg/</loc>
     <lastmod>2015-08-14T00:00:00+00:00</lastmod>
@@ -104,6 +98,9 @@
     <loc>http://localhost:1313/manga/trickster/</loc>
     <lastmod>2010-12-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/babyplay/</loc>
+    <lastmod>2010-10-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/beautifulcatlife/</loc>
     <lastmod>2010-10-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -118,6 +115,15 @@
   </url><url>
     <loc>http://localhost:1313/manga/canon3/</loc>
     <lastmod>2009-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/psc2/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/psc/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%9B%BE%E9%9B%86/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/yu/</loc>
     <lastmod>2008-12-28T00:00:00+00:00</lastmod>

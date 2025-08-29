@@ -6,21 +6,14 @@
     <description>Recent content in Mangas on In The Shade</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 18:11:11 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/manga/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>片山愁特辑</title>
-      <link>http://localhost:1313/manga/psc2/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/psc2/</guid>
-      <description>&lt;p&gt;作者：片山愁&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>片山愁特辑·小豆丁哥哥</title>
-      <link>http://localhost:1313/manga/psc/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/psc/</guid>
-      <description>&lt;p&gt;作者：片山愁&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+      <title>关于哥哥变成魅魔的小本本</title>
+      <link>http://localhost:1313/manga/incubus/</link>
+      <pubDate>Sun, 04 May 2025 18:11:11 +0000</pubDate>
+      <guid>http://localhost:1313/manga/incubus/</guid>
+      <description>&lt;p&gt;作者：ika&lt;br&gt;&#xA;图源：锤锤&lt;br&gt;&#xA;翻译：有线转生&lt;br&gt;&#xA;嵌字：有线转生&lt;br&gt;&#xA;公开日期：2025/8/23 - 2025/9/23&lt;/p&gt;&#xA;&lt;p&gt;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：「男魅魔」的英文，7位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;br&gt;&#xA;⚠️ 【公开期】过后采取封锁处理，可凭【本子购买记录】或【二手交易记录】，通过【私信阴影站微博账号】兑换密码。&lt;/p&gt;</description>
     </item>
     <item>
       <title>UMA</title>
@@ -171,6 +164,13 @@
     </item>
     <item>
       <title>Beautiful Cat Life</title>
+      <link>http://localhost:1313/manga/babyplay/</link>
+      <pubDate>Sat, 23 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/babyplay/</guid>
+      <description>&lt;p&gt;作者：高飛 (黑井きりん) （guest 安本ネグ）&lt;br&gt;&#xA;图源：阿黑（冥黑无爱）&lt;br&gt;&#xA;修图：螺Korone&lt;br&gt;&#xA;翻译：Ecila_pad&lt;br&gt;&#xA;嵌字：Voss&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beautiful Cat Life</title>
       <link>http://localhost:1313/manga/beautifulcatlife/</link>
       <pubDate>Sat, 23 Oct 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/beautifulcatlife/</guid>
@@ -203,6 +203,20 @@
       <pubDate>Sat, 15 Aug 2009 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/canon3/</guid>
       <description>&lt;p&gt;作者：さたけ&lt;br&gt;&#xA;图源：@eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>片山愁特辑</title>
+      <link>http://localhost:1313/manga/psc2/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/psc2/</guid>
+      <description>&lt;p&gt;作者：片山愁&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>片山愁特辑·小豆丁哥哥</title>
+      <link>http://localhost:1313/manga/psc/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/psc/</guid>
+      <description>&lt;p&gt;作者：片山愁&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>汤</title>
