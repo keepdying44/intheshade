@@ -8,4 +8,7 @@ imageCount: 11
 imageExt: ".jpg" 
 startIndex: 0
 ---
-作者: 雷藏
+作者：雷藏
+翻译：海星  
+修图：阿黑  
+嵌字：阿黑  
