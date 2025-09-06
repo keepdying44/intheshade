@@ -6,7 +6,7 @@ password: fuckvergil
 tags: 
   - r18
 imagePrefix: "https://mayday44.xyz/sister2/"  
-imageCount: 14
+imageCount: 26
 imageExt: ".jpg" 
 startIndex: 1
 ---
