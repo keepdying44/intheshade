@@ -11,6 +11,7 @@ imageExt: ".jpg"
 startIndex: 1
 ---
 作者: しのぶ  
-社团：Romance Gray  
+社团：Romance Gray 
+图源：@今天早上吃麵包    
 翻译：@马拉桑喝酒醉  
 嵌字：@马拉桑喝酒醉  
