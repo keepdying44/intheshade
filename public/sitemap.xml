@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/</loc>
-    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/wsp/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/incubus/</loc>
     <lastmod>2025-05-04T18:11:11+00:00</lastmod>
@@ -17,6 +20,9 @@
     <loc>http://localhost:1313/manga/lovesong/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/freeform/</loc>
+    <lastmod>2021-11-28T18:09:49+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/5dv/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -25,6 +31,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/dantestumbles/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/allowme-novel/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/babyplay/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
@@ -37,6 +46,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/likeadream/</loc>
     <lastmod>2019-08-25T18:09:49+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/minicar/</loc>
+    <lastmod>2019-03-18T18:09:49+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tg/</loc>
     <lastmod>2015-08-14T00:00:00+00:00</lastmod>
@@ -95,6 +107,15 @@
     <loc>http://localhost:1313/manga/broinkid/</loc>
     <lastmod>2013-03-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/prise/</loc>
+    <lastmod>2013-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/serinuscanaria-papilionidae/</loc>
+    <lastmod>2013-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/3aira/</loc>
+    <lastmod>2013-01-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/iwannastaywithyou/</loc>
     <lastmod>2012-12-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -109,6 +130,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/bestia/</loc>
     <lastmod>2012-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/sister3/</loc>
+    <lastmod>2012-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/youshalldie/</loc>
     <lastmod>2012-07-03T00:00:00+00:00</lastmod>
@@ -223,6 +247,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/tristessesdelalune/</loc>
     <lastmod>2006-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/whitemonsters/</loc>
+    <lastmod>2005-12-29T18:12:05+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/wintrywonder/</loc>
     <lastmod>2005-12-29T18:12:05+00:00</lastmod>
