@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/manga/devils-bullet/</loc>
+    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/</loc>
-    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/wsp/</loc>
-    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/incubus/</loc>
     <lastmod>2025-05-04T18:11:11+00:00</lastmod>
@@ -43,6 +43,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/strangers/</loc>
     <lastmod>2019-10-14T20:10:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/wsp/</loc>
+    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/likeadream/</loc>
     <lastmod>2019-08-25T18:09:49+00:00</lastmod>
@@ -111,6 +114,9 @@
     <lastmod>2013-01-16T18:12:05+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/myimmortal/</loc>
+    <lastmod>2013-01-12T18:12:05+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/devilmaybayonetta/</loc>
     <lastmod>2013-01-12T18:12:05+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/prise/</loc>
@@ -239,6 +245,9 @@
     <loc>http://localhost:1313/manga/tg-sonwwhite/</loc>
     <lastmod>2008-03-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/diepretty/</loc>
+    <lastmod>2008-03-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/tg3-diamond/</loc>
     <lastmod>2007-11-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -259,6 +268,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/wintrywonder/</loc>
     <lastmod>2005-12-29T18:12:05+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/rehush/</loc>
+    <lastmod>2005-10-23T18:12:05+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/royalguard2/</loc>
     <lastmod>2005-01-06T14:37:47+00:00</lastmod>
