@@ -68,6 +68,9 @@
     <loc>http://localhost:1313/manga/farewellday/</loc>
     <lastmod>2015-05-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/vergilismine/</loc>
+    <lastmod>2014-12-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/deviltamer/</loc>
     <lastmod>2014-08-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -174,9 +177,6 @@
     <lastmod>2010-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/nightmaretommy/</loc>
-    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/vergilismine/</loc>
     <lastmod>2010-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/kawaiioniarienai/</loc>
