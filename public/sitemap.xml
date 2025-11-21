@@ -20,6 +20,9 @@
     <loc>http://localhost:1313/manga/uma/</loc>
     <lastmod>2022-12-18T18:12:05+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/15brother/</loc>
+    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/lovesong/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -34,6 +37,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/dantestumbles/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/crazyoneweek/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/allowme-novel/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
@@ -82,6 +88,12 @@
   </url><url>
     <loc>http://localhost:1313/manga/costumepalyxxx/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/aoikoi/</loc>
+    <lastmod>2014-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/pointatinfinity/</loc>
+    <lastmod>2014-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/withyoueverthingfine/</loc>
     <lastmod>2014-01-12T00:00:00+00:00</lastmod>
@@ -167,6 +179,15 @@
     <loc>http://localhost:1313/manga/sister2/</loc>
     <lastmod>2011-12-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/sister1/</loc>
+    <lastmod>2011-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/crepuscularrays/</loc>
+    <lastmod>2011-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/chaosareaof0/</loc>
+    <lastmod>2011-05-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/4dv/</loc>
     <lastmod>2010-12-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -196,6 +217,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/canon4/</loc>
     <lastmod>2009-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/idiots/</loc>
+    <lastmod>2009-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/glasses/</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
