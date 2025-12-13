@@ -6,8 +6,22 @@
     <description>Recent content in Mangas on In The Shade</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 04 May 2025 18:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/manga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>姐姐93%（秋风短篇集合1）</title>
+      <link>http://localhost:1313/manga/sister93/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/sister93/</guid>
+      <description>&lt;p&gt;作者：秋风   &lt;br&gt;&#xA;翻译：44&lt;br&gt;&#xA;嵌字：aibo&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>韩语本</title>
+      <link>http://localhost:1313/manga/n8n/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/n8n/</guid>
+      <description>&lt;p&gt;作者: N8N&lt;br&gt;&#xA;翻译：九一&lt;br&gt;&#xA;嵌字：行歌笑&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DEVIL&#39;s Bullet（无属性本）</title>
       <link>http://localhost:1313/manga/devils-bullet/</link>
@@ -69,6 +83,13 @@
       <link>http://localhost:1313/manga/crazyoneweek/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/crazyoneweek/</guid>
+      <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;图源：火星人&lt;br&gt;&#xA;翻译：火星人&lt;br&gt;&#xA;嵌字：火星人&lt;/p&gt;&#xA;&lt;p&gt;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：尼禄的右手叫什么名字？12位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>器1</title>
+      <link>http://localhost:1313/manga/utuwa2/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/utuwa2/</guid>
       <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;图源：火星人&lt;br&gt;&#xA;翻译：火星人&lt;br&gt;&#xA;嵌字：火星人&lt;/p&gt;&#xA;&lt;p&gt;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：尼禄的右手叫什么名字？12位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -247,6 +268,13 @@
       <description>&lt;p&gt;作者：カルカン子&lt;br&gt;&#xA;社团：ねこまっしぐら&lt;br&gt;&#xA;图源：@eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
+      <title>永远的摇篮</title>
+      <link>http://localhost:1313/manga/forevercradle/</link>
+      <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/forevercradle/</guid>
+      <description>&lt;p&gt;作者：希乃 &lt;br&gt;&#xA;社团：PILZ&lt;br&gt;&#xA;翻译：44&lt;br&gt;&#xA;嵌字：月羽见&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>BMB</title>
       <link>http://localhost:1313/manga/bmb/</link>
       <pubDate>Wed, 16 Jan 2013 18:12:05 +0000</pubDate>
@@ -259,6 +287,13 @@
       <pubDate>Sat, 12 Jan 2013 18:12:05 +0000</pubDate>
       <guid>http://localhost:1313/manga/myimmortal/</guid>
       <description>&lt;p&gt;作者: 希乃&lt;br&gt;&#xA;社团：PILZ&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：匿名（ls）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Little world</title>
+      <link>http://localhost:1313/manga/mylittleworld/</link>
+      <pubDate>Sat, 12 Jan 2013 18:12:05 +0000</pubDate>
+      <guid>http://localhost:1313/manga/mylittleworld/</guid>
+      <description>&lt;p&gt;作者: 希乃&lt;br&gt;&#xA;社团：PILZ&lt;br&gt;&#xA;翻译：侵光系&lt;br&gt;&#xA;嵌字：匿名（az）&lt;/p&gt;</description>
     </item>
     <item>
       <title>鬼泣猎天使</title>
@@ -352,6 +387,13 @@
       <description>&lt;p&gt;作者：トミタ&lt;br&gt;&#xA;社团：TOMMY&lt;br&gt;&#xA;翻译：魅宅汉化组&lt;br&gt;&#xA;嵌字：魅宅汉化组&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Drip of love</title>
+      <link>http://localhost:1313/manga/dropsoflove/</link>
+      <pubDate>Sun, 21 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/dropsoflove/</guid>
+      <description>&lt;p&gt;作者：kazta&lt;br&gt;&#xA;社团：N＋&lt;br&gt;&#xA;翻译：44&lt;br&gt;&#xA;嵌字：行歌笑&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>姐本1</title>
       <link>http://localhost:1313/manga/sister1/</link>
       <pubDate>Sun, 21 Aug 2011 00:00:00 +0000</pubDate>
@@ -359,11 +401,11 @@
       <description>&lt;p&gt;作者：トミタ&lt;br&gt;&#xA;社团：TOMMY&lt;br&gt;&#xA;图源：@eee鹅鹅鹅怪叫鹅&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：到处睡觉的猫&lt;/p&gt;</description>
     </item>
     <item>
-      <title>天使之梯</title>
+      <title>天使之梯（四代cb&#43;NK）</title>
       <link>http://localhost:1313/manga/crepuscularrays/</link>
       <pubDate>Sun, 21 Aug 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/crepuscularrays/</guid>
-      <description>&lt;p&gt;作者：kazta&#xA;社团：N＋&#xA;翻译：44&#xA;嵌字：行歌笑&lt;/p&gt;</description>
+      <description>&lt;p&gt;作者：kazta&lt;br&gt;&#xA;社团：N＋&lt;br&gt;&#xA;翻译：44&lt;br&gt;&#xA;嵌字：行歌笑&lt;/p&gt;</description>
     </item>
     <item>
       <title>午前零时的不法地带</title>
@@ -583,11 +625,25 @@
       <description>&lt;p&gt;作者：たかひ&lt;br&gt;&#xA;社团：よるせ&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：阿顶&lt;/p&gt;&#xA;&lt;p&gt;⚠️此本为たかひ系列作品，属性为dvd双子无差，全年龄向无R内容。可以接受吗？&lt;br&gt;&#xA;⚠️密码为【yes+鬼泣3发售年份】。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Fusion of Evil</title>
+      <link>http://localhost:1313/manga/fusionofevil/</link>
+      <pubDate>Sun, 16 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/fusionofevil/</guid>
+      <description>&lt;p&gt;作者：PINTA&lt;br&gt;&#xA;社团：HANPEN&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：Cree&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Tony &amp; Gilver 3 - DIAMOND ERECTION</title>
       <link>http://localhost:1313/manga/tg3-diamond/</link>
       <pubDate>Wed, 14 Nov 2007 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/tg3-diamond/</guid>
       <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;社团：sera&lt;br&gt;&#xA;图源：@马拉桑喝酒醉&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：柠檬树蛙&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DREAM EVIL</title>
+      <link>http://localhost:1313/manga/dreamevil/</link>
+      <pubDate>Sat, 18 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/dreamevil/</guid>
+      <description>&lt;p&gt;作者：PINTA&lt;br&gt;&#xA;社团：HANPEN&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：阿顶&lt;/p&gt;</description>
     </item>
     <item>
       <title>青い兄症候群</title>
@@ -609,6 +665,13 @@
       <pubDate>Tue, 05 Dec 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/tg2/</guid>
       <description>&lt;p&gt;作者：安奈&lt;br&gt;&#xA;社团：sera&lt;br&gt;&#xA;图源：阿黑（冥黑无爱）&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Going Under</title>
+      <link>http://localhost:1313/manga/goingunder/</link>
+      <pubDate>Sun, 15 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/goingunder/</guid>
+      <description>&lt;p&gt;作者：しらぎ　　&lt;br&gt;&#xA;社团：pavlovdog&lt;br&gt;&#xA;图源：御坂桃生&lt;br&gt;&#xA;翻译：御坂桃生&lt;br&gt;&#xA;嵌字：御坂桃生&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tony &amp; Gilver</title>
@@ -665,6 +728,13 @@
       <pubDate>Thu, 06 Jan 2005 14:37:47 +0000</pubDate>
       <guid>http://localhost:1313/manga/royalguard1/</guid>
       <description>&lt;p&gt;作者：GIN YOTONG&#xA;汉化：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/manga/utuwa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/utuwa1/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
