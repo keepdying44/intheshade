@@ -41,7 +41,7 @@
       <link>http://localhost:1313/manga/twinsneko/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/twinsneko/</guid>
-      <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;公开日期：2025/10/25 - 2026/5/25&lt;/p&gt;&#xA;&lt;p&gt;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：日语「猫」的罗马音，4位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;br&gt;&#xA;⚠️ 【公开期】过后采取封锁处理，可凭【本子购买记录】或【二手交易记录】，通过【私信阴影站微博账号】兑换密码。&lt;/p&gt;</description>
+      <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;图源: @Qc&lt;br&gt;&#xA;翻译: @马拉桑喝酒醉&lt;br&gt;&#xA;正片嵌字: 行歌笑&lt;br&gt;&#xA;杂图嵌字：王大柱、 马拉桑喝酒醉&lt;/p&gt;&#xA;&lt;p&gt;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：日语「猫」的罗马音，4位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>UMA</title>
@@ -79,6 +79,13 @@
       <description>&lt;p&gt;作者：吾妻&lt;br&gt;&#xA;图源：@今天早上吃麵包 &lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;br&gt;&#xA;公开日期：2025/8/29 - 2025/11/29&lt;/p&gt;&#xA;&lt;p&gt;本篇使用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：日语「川流れ」的罗马音，10位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;br&gt;&#xA;⚠️ 【公开期】过后采取封锁处理，可凭【本子购买记录】或【二手交易记录】，通过【私信阴影站微博账号】兑换密码。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>器2</title>
+      <link>http://localhost:1313/manga/utuwa2/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/utuwa2/</guid>
+      <description>&lt;p&gt;图源：杀子 &lt;br&gt;&#xA;翻译：串串串串串 &lt;br&gt;&#xA;嵌字：串串串串串&lt;/p&gt;&#xA;&lt;p&gt;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：尼禄的右手叫什么名字？12位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Crazy One Week（女体化）</title>
       <link>http://localhost:1313/manga/crazyoneweek/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
@@ -87,10 +94,10 @@
     </item>
     <item>
       <title>器1</title>
-      <link>http://localhost:1313/manga/utuwa2/</link>
+      <link>http://localhost:1313/manga/utuwa1/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/utuwa2/</guid>
-      <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;图源：火星人&lt;br&gt;&#xA;翻译：火星人&lt;br&gt;&#xA;嵌字：火星人&lt;/p&gt;&#xA;&lt;p&gt;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：尼禄的右手叫什么名字？12位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/manga/utuwa1/</guid>
+      <description>&lt;p&gt;图源：杀子 &lt;br&gt;&#xA;翻译：串串串串串 &lt;br&gt;&#xA;嵌字：串串串串串&lt;/p&gt;&#xA;&lt;p&gt;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：尼禄的右手叫什么名字？12位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ALLOW ME（小说）</title>
@@ -161,6 +168,13 @@
       <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/farewellday/</guid>
       <description>&lt;p&gt;作者: しのぶ&lt;br&gt;&#xA;社团：Romance Gray&#xA;图源：@今天早上吃麵包 &lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>随你便！！</title>
+      <link>http://localhost:1313/manga/sukinisiro/</link>
+      <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/sukinisiro/</guid>
+      <description>&lt;p&gt;作者：kazta&lt;br&gt;&#xA;社团：たぬしん亭 &lt;br&gt;&#xA;图源：阿黑（冥黑无爱）&lt;br&gt;&#xA;翻译：Ecila_pad &lt;br&gt;&#xA;嵌字：螺Korone&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vergil is Mine</title>
@@ -392,6 +406,13 @@
       <pubDate>Sun, 21 Aug 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/dropsoflove/</guid>
       <description>&lt;p&gt;作者：kazta&lt;br&gt;&#xA;社团：N＋&lt;br&gt;&#xA;翻译：44&lt;br&gt;&#xA;嵌字：行歌笑&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>くちびるがおぼえている</title>
+      <link>http://localhost:1313/manga/lips/</link>
+      <pubDate>Sun, 21 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/lips/</guid>
+      <description>&lt;p&gt;作者：依次为&lt;br&gt;&#xA;庭路みつき（2PART）&lt;br&gt;&#xA;眼帯ヒゲマニア（4PART&amp;amp;黑页）&lt;br&gt;&#xA;トミタ（1PART）&lt;br&gt;&#xA;だんばじん（小说）&lt;br&gt;&#xA;图源：@Qc&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉 &lt;br&gt;&#xA;嵌字：&lt;br&gt;&#xA;醇泉酸芷（庭路PART）&lt;br&gt;&#xA;阿顶（眼带PART）&lt;br&gt;&#xA;匿名az（トミタPART）&lt;/p&gt;</description>
     </item>
     <item>
       <title>姐本1</title>
@@ -728,13 +749,6 @@
       <pubDate>Thu, 06 Jan 2005 14:37:47 +0000</pubDate>
       <guid>http://localhost:1313/manga/royalguard1/</guid>
       <description>&lt;p&gt;作者：GIN YOTONG&#xA;汉化：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/manga/utuwa1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/utuwa1/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

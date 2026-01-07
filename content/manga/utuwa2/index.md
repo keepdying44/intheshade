@@ -1,19 +1,18 @@
 ---
-title: 器1
-date: 2020-05-05
+title: 器2
+date: 2020-05-06
 draft: false
 password: devilbringer
 tags: 
-imagePrefix: "https://mayday44.xyz/CrazyOneWeek/"  
-imageCount: 60
+imagePrefix: "https://mayday44.xyz/utuwa2"  
+imageCount: 50
 imageExt: ".jpg" 
-startIndex: 60
+startIndex: 1
 ---
-作者：日々屋 蓮  
-社团：灸と生ハム  
-图源：火星人  
-翻译：火星人  
-嵌字：火星人  
+图源：杀子    
+翻译：串串串串串    
+嵌字：串串串串串    
+    
 
 本篇采用特殊密码。  
 *密码提示：尼禄的右手叫什么名字？12位英文字母（无大写、无空格、无符号）*    
