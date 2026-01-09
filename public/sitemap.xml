@@ -62,6 +62,12 @@
     <loc>http://localhost:1313/manga/babyplay/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/thebluebook/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tg/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/takemetochurch/</loc>
     <lastmod>2019-10-19T18:11:11+00:00</lastmod>
   </url><url>
@@ -76,9 +82,6 @@
   </url><url>
     <loc>http://localhost:1313/manga/minicar/</loc>
     <lastmod>2019-03-18T18:09:49+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tg/</loc>
-    <lastmod>2015-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/tg-adventure/</loc>
     <lastmod>2015-08-14T00:00:00+00:00</lastmod>
@@ -245,6 +248,9 @@
     <loc>http://localhost:1313/manga/canon4/</loc>
     <lastmod>2009-12-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/goodbadrelationship/</loc>
+    <lastmod>2009-12-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/idiots/</loc>
     <lastmod>2009-12-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -346,6 +352,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/wintrywonder/</loc>
     <lastmod>2005-12-29T18:12:05+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/nfnf/</loc>
+    <lastmod>2005-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/rehush/</loc>
     <lastmod>2005-10-23T18:12:05+00:00</lastmod>
