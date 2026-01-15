@@ -6,8 +6,8 @@ draft: false
 type: "manga"
 tags:
   - tg
-imagePrefix: "https://mayday44.xyz/tg4/"  
-imageCount: 22
+imagePrefix: "https://mayday44.xyz/TheBlueBook%E2%85%A1/"  
+imageCount: 45
 imageExt: ".jpg" 
 startIndex: 1
 ---
