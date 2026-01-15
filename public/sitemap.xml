@@ -95,6 +95,12 @@
     <loc>http://localhost:1313/manga/sukinisiro/</loc>
     <lastmod>2015-05-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/non-1day1night/</loc>
+    <lastmod>2015-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/non-remixed/</loc>
+    <lastmod>2015-01-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/vergilismine/</loc>
     <lastmod>2014-12-29T00:00:00+00:00</lastmod>
   </url><url>
