@@ -1,5 +1,5 @@
 ---
-title: "【双子无差】sneak a pizza"
+title: "【双子无差】SNEAK A PIZZA"
 date: 2008-08-16
 draft: false
 password: yes2005
@@ -10,8 +10,9 @@ imageExt: ".webp"
 startIndex: 1
 ---
 作者：たかひ  
-社团：よるせ   
-图源：柠檬树蛙   
+社团：ゆるせ  
+图源：柠檬树蛙  
+修图：柠檬树蛙  
 翻译：@马拉桑喝酒醉  
 嵌字：阿顶  
 

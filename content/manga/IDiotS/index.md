@@ -1,6 +1,6 @@
 ---
 title: IDiotS
-date: 2009-12-02
+date: 2007-09-02
 password: dmc6
 draft: false
 type: "manga"
@@ -10,6 +10,7 @@ imageCount: 20
 imageExt: ".webp" 
 startIndex: 1
 ---
-作者：kazta    
+作者：kazta  
 社团：N+  
-翻译：@马拉桑喝酒醉    
+翻译：@马拉桑喝酒醉  
+嵌字：阿顶  

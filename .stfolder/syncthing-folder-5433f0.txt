@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: in-the-shade
+created: 2026-01-18T14:01:01+08:00

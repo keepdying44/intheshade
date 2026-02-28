@@ -1,6 +1,6 @@
 ---
 title: "【无属性】DEVIL's Bullet"
-date: 2025-05-04 18:11:11
+date: 2024-05-04 18:11:11
 draft: false
 password: bullet
 imagePrefix: "https://mayday44.xyz/DEVIL's%20Bullet/"  
