@@ -1,6 +1,6 @@
 ---
-title: （互攻）flip-Lavitaerosa
-date: 2026-02-28
+title: （互攻）La vitae rosa
+date: 2006-02-28
 draft: false
 password: dmc6
 tags: 

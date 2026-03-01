@@ -2,41 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/manga/flip-lavitaerosa/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/vergilism/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/brotherofthehead/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/notimeforcrying/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/ratatattat/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/3dv-mirror/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/achandelier/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/-kazta-s/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/manga/maybeaboutcrazy/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/tailplay/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/manga/youreahandfulboy/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/sister93/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/3dv-mirror/</loc>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/r18/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
@@ -47,14 +29,32 @@
     <loc>http://localhost:1313/manga/n8n/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/manga/devils-bullet/</loc>
-    <lastmod>2025-05-04T18:11:11+00:00</lastmod>
+    <loc>http://localhost:1313/manga/tailplay/</loc>
+    <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/incubus/</loc>
     <lastmod>2025-05-04T18:11:11+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/overdrive/</loc>
+    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/apartment/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/alone/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/devils-bullet/</loc>
+    <lastmod>2024-05-04T18:11:11+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/twinsneko/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/boysdontcry/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/platonicguilt/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/uma/</loc>
     <lastmod>2022-12-18T18:12:05+00:00</lastmod>
@@ -63,6 +63,9 @@
     <lastmod>2022-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/lovesong/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/ranns/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/freeform/</loc>
@@ -106,6 +109,9 @@
   </url><url>
     <loc>http://localhost:1313/manga/likeadream/</loc>
     <lastmod>2019-08-25T18:09:49+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/d-log7/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/minicar/</loc>
     <lastmod>2019-03-18T18:09:49+00:00</lastmod>
@@ -284,9 +290,6 @@
     <loc>http://localhost:1313/manga/goodbadrelationship/</loc>
     <lastmod>2009-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/manga/idiots/</loc>
-    <lastmod>2009-12-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/manga/glasses/</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -338,8 +341,17 @@
     <loc>http://localhost:1313/manga/canon1/</loc>
     <lastmod>2008-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/vergilism/</loc>
+    <lastmod>2008-06-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/playwithyou/</loc>
     <lastmod>2008-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/agracefuldeadman/</loc>
+    <lastmod>2008-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/diepretty/</loc>
+    <lastmod>2008-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/tg-anotherrose/</loc>
     <lastmod>2008-03-16T00:00:00+00:00</lastmod>
@@ -350,14 +362,20 @@
     <loc>http://localhost:1313/manga/tg-sonwwhite/</loc>
     <lastmod>2008-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/manga/diepretty/</loc>
-    <lastmod>2008-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/manga/fusionofevil/</loc>
     <lastmod>2007-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/tg3-diamond/</loc>
     <lastmod>2007-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/maybeaboutcrazy/</loc>
+    <lastmod>2007-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/flying/</loc>
+    <lastmod>2007-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/idiots/</loc>
+    <lastmod>2007-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/dreamevil/</loc>
     <lastmod>2007-08-18T00:00:00+00:00</lastmod>
@@ -367,6 +385,18 @@
   </url><url>
     <loc>http://localhost:1313/manga/freedeviljam/</loc>
     <lastmod>2007-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/brotherofthehead/</loc>
+    <lastmod>2007-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/notimeforcrying/</loc>
+    <lastmod>2007-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/ratatattat/</loc>
+    <lastmod>2007-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manga/achandelier/</loc>
+    <lastmod>2007-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/tg2/</loc>
     <lastmod>2006-12-05T00:00:00+00:00</lastmod>
@@ -383,6 +413,9 @@
     <loc>http://localhost:1313/manga/whitemonsters/</loc>
     <lastmod>2006-05-03T18:12:05+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/manga/flip-lavitaerosa/</loc>
+    <lastmod>2006-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/manga/wintrywonder/</loc>
     <lastmod>2005-12-29T18:12:05+00:00</lastmod>
   </url><url>
@@ -391,9 +424,6 @@
   </url><url>
     <loc>http://localhost:1313/manga/rehush/</loc>
     <lastmod>2005-10-23T18:12:05+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manga/thegracefuldeadman/</loc>
-    <lastmod>2005-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manga/royalguard2/</loc>
     <lastmod>2005-01-06T14:37:47+00:00</lastmod>

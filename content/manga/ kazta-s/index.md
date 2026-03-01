@@ -1,5 +1,5 @@
 ---
-title: kazta图包
+title: kazta图集
 date: 2026-02-28
 draft: false
 password: dmc6
