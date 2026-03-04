@@ -2,7 +2,7 @@
 title: 【限时公开】apartment
 date: 2024-07-28
 draft: false
-password: apaato
+password: apartment
 tags: 
 imagePrefix: "https://mayday44.xyz/apartment/"  
 imageCount: 43
