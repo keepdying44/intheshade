@@ -1,5 +1,5 @@
 ---
-title: （互攻）La vitae rosa
+title: 【无差】La vitae rosa
 date: 2006-02-28
 draft: false
 password: dmc6

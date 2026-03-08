@@ -6,17 +6,38 @@
     <description>Recent content in Mangas on In The Shade</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 18:09:49 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/manga/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>kazta图包</title>
+      <title>庭路五月再录</title>
+      <link>http://localhost:1313/manga/mayrepost/</link>
+      <pubDate>Sun, 01 Mar 2026 18:09:49 +0000</pubDate>
+      <guid>http://localhost:1313/manga/mayrepost/</guid>
+      <description>&lt;p&gt;作者：庭路みつき&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>kazta图集</title>
       <link>http://localhost:1313/manga/-kazta-s/</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/-kazta-s/</guid>
       <description>&lt;p&gt;kazta图包&lt;br&gt;&#xA;收集自网络&lt;/p&gt;&#xA;&lt;p&gt;作者：kazta&lt;br&gt;&#xA;【汉化CAST表】&lt;br&gt;&#xA;翻译：44（p站part）&lt;br&gt;&#xA;@马拉桑喝酒醉（贴吧&amp;amp;寄稿part）&lt;br&gt;&#xA;嵌字：王大柱（p吧&amp;amp;贴吧part）&lt;br&gt;&#xA;行歌笑（寄稿part）&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【限时公开】You&#39;re a handful,boy</title>
+      <title>秋风图集</title>
+      <link>http://localhost:1313/manga/akikaze-s/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/akikaze-s/</guid>
+      <description>&lt;p&gt;秋风图集&lt;br&gt;&#xA;收集自网络&lt;/p&gt;&#xA;&lt;p&gt;作者：秋风&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>日々屋 蓮 图集</title>
+      <link>http://localhost:1313/manga/ranns/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/ranns/</guid>
+      <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>You&#39;re a handful,boy</title>
       <link>http://localhost:1313/manga/youreahandfulboy/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/youreahandfulboy/</guid>
@@ -69,7 +90,7 @@
       <link>http://localhost:1313/manga/apartment/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/apartment/</guid>
-      <description>&lt;p&gt;作者：みじ&lt;br&gt;&#xA;社团：SLA//SH&lt;br&gt;&#xA;图源: 侵光系&lt;br&gt;&#xA;翻译: 侵光系&lt;br&gt;&#xA;嵌字:行歌笑&lt;/p&gt;&#xA;&lt;p&gt;发行时间2024-7-28&lt;br&gt;&#xA;3年后解禁。&lt;/p&gt;&#xA;&lt;p&gt;公开日期：2026/2/28 - 2026/3/31&lt;br&gt;&#xA;公开期一个月，到期后做封禁处理，可私信 &lt;a href=&#34;https://weibo.com/u/9122730703&#34; target=&#34;_blank&#34;&gt;阴影站微博&lt;/a&gt;&#xA;提供购买记录以兑换汉化文件。&lt;br&gt;&#xA;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：日语「公寓」，6位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;作者：みじ&lt;br&gt;&#xA;社团：SLA//SH&lt;br&gt;&#xA;图源: 侵光系&lt;br&gt;&#xA;翻译: 侵光系&lt;br&gt;&#xA;嵌字:行歌笑&lt;/p&gt;&#xA;&lt;p&gt;发行时间2024-7-28&lt;br&gt;&#xA;3年后解禁。&lt;/p&gt;&#xA;&lt;p&gt;公开日期：2026/2/28 - 2026/3/31&lt;br&gt;&#xA;公开期一个月，到期后做封禁处理，可私信 &lt;a href=&#34;https://weibo.com/u/9122730703&#34; target=&#34;_blank&#34;&gt;阴影站微博&lt;/a&gt;&#xA;提供购买记录以兑换汉化文件。&lt;br&gt;&#xA;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：英语「公寓」，9位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【非公开】ALONE</title>
@@ -128,13 +149,6 @@
       <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;&#xA;&lt;p&gt;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：日语「生ハム」的罗马音，8位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>日々屋 蓮 图集</title>
-      <link>http://localhost:1313/manga/ranns/</link>
-      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/ranns/</guid>
-      <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>自由帳</title>
       <link>http://localhost:1313/manga/freeform/</link>
       <pubDate>Sun, 28 Nov 2021 18:09:49 +0000</pubDate>
@@ -189,6 +203,13 @@
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/thebluebook/</guid>
       <description>&lt;p&gt;⚠️本篇为【维吉尔右向合志】，内有【NV】内容，请相关读者注意避雷；采用特殊密码。 &lt;br&gt;&#xA;⚠️合志内容和作者cp取向不代表站点观点。&lt;br&gt;&#xA;&lt;em&gt;密码提示：「我ok」的英文，4位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;作者：依次为&lt;br&gt;&#xA;吾妻（维右插画，1张）&lt;br&gt;&#xA;宗六（新Vv插画，1张）&lt;br&gt;&#xA;Ron（DV漫画）-Good morning&lt;br&gt;&#xA;ウズワ（DV插画，1张）&lt;br&gt;&#xA;びわ（DV漫画）-It was too little,too late&lt;br&gt;&#xA;宗六（DV漫画）-Call&lt;br&gt;&#xA;ウズワ（DV插画，1张）&lt;br&gt;&#xA;名無しの権兵衛（DV漫画）-那个男人，秀恩爱&lt;br&gt;&#xA;宗六（维右插画，1张）&lt;br&gt;&#xA;ウズワ（DV漫画）-茶余饭后的DV小零嘴&lt;br&gt;&#xA;ウズワ（NV插画，1张）&lt;br&gt;&#xA;雄藏（NV漫画）-还没跟父亲上本垒的尼禄君被传送到生米成熟饭的未来的故事&lt;br&gt;&#xA;图源：@Qc&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：&lt;br&gt;&#xA;DV PART by 匿名（ls）&lt;br&gt;&#xA;NV PART by 椰子&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【维吉尔右向合志】The BlueBook I</title>
+      <link>http://localhost:1313/manga/thebluebooki/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/thebluebooki/</guid>
+      <description>&lt;p&gt;⚠️本篇为【维吉尔右向合志】，内有【NV】内容，请相关读者注意避雷；采用特殊密码。 &lt;br&gt;&#xA;⚠️合志内容和作者cp取向不代表站点观点。&lt;br&gt;&#xA;&lt;em&gt;密码提示：「我ok」的英文，4位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;主催：吾妻&lt;br&gt;&#xA;图源：eeese&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：月羽见&lt;/p&gt;</description>
     </item>
     <item>
       <title>TAKE ME TO CHURCH</title>
@@ -672,6 +693,27 @@
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/ruleofsilence/</guid>
       <description>&lt;p&gt;作者：RinCalie(狩江リン)&lt;br&gt;&#xA;社团：Caprice&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【大家族系列】2V 1v5</title>
+      <link>http://localhost:1313/manga/2v/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/2v/</guid>
+      <description>&lt;p&gt;作者：眼帯ヒゲマニア&lt;br&gt;&#xA;社团：Folgore&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【大家族系列】honey bee</title>
+      <link>http://localhost:1313/manga/honeybee/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/honeybee/</guid>
+      <description>&lt;p&gt;作者：りの（梨乃）&lt;br&gt;&#xA;社团：d&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【大家族系列】夜晚摇篮曲</title>
+      <link>http://localhost:1313/manga/nightslullaby/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/nightslullaby/</guid>
+      <description>&lt;p&gt;作者：りの（梨乃）&lt;br&gt;&#xA;社团：d&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>【双子无差】SNEAK A PIZZA</title>

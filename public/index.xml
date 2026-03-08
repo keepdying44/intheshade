@@ -6,8 +6,15 @@
     <description>Recent content on In The Shade</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 18:09:49 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>庭路五月再录</title>
+      <link>http://localhost:1313/manga/mayrepost/</link>
+      <pubDate>Sun, 01 Mar 2026 18:09:49 +0000</pubDate>
+      <guid>http://localhost:1313/manga/mayrepost/</guid>
+      <description>&lt;p&gt;作者：庭路みつき&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
     <item>
       <title>kazta图集</title>
       <link>http://localhost:1313/manga/-kazta-s/</link>
@@ -21,6 +28,13 @@
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/akikaze-s/</guid>
       <description>&lt;p&gt;秋风图集&lt;br&gt;&#xA;收集自网络&lt;/p&gt;&#xA;&lt;p&gt;作者：秋风&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>日々屋 蓮 图集</title>
+      <link>http://localhost:1313/manga/ranns/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/ranns/</guid>
+      <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>You&#39;re a handful,boy</title>
@@ -133,13 +147,6 @@
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/lovesong/</guid>
       <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;br&gt;&#xA;嵌字：@马拉桑喝酒醉&lt;/p&gt;&#xA;&lt;p&gt;本篇采用特殊密码。&lt;br&gt;&#xA;&lt;em&gt;密码提示：日语「生ハム」的罗马音，8位英文字母（无大写、无空格、无符号）&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>日々屋 蓮 图集</title>
-      <link>http://localhost:1313/manga/ranns/</link>
-      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manga/ranns/</guid>
-      <description>&lt;p&gt;作者：日々屋 蓮&lt;br&gt;&#xA;社团：灸と生ハム&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>自由帳</title>
@@ -686,6 +693,27 @@
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manga/ruleofsilence/</guid>
       <description>&lt;p&gt;作者：RinCalie(狩江リン)&lt;br&gt;&#xA;社团：Caprice&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【大家族系列】2V 1v5</title>
+      <link>http://localhost:1313/manga/2v/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/2v/</guid>
+      <description>&lt;p&gt;作者：眼帯ヒゲマニア&lt;br&gt;&#xA;社团：Folgore&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【大家族系列】honey bee</title>
+      <link>http://localhost:1313/manga/honeybee/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/honeybee/</guid>
+      <description>&lt;p&gt;作者：りの（梨乃）&lt;br&gt;&#xA;社团：d&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【大家族系列】夜晚摇篮曲</title>
+      <link>http://localhost:1313/manga/nightslullaby/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manga/nightslullaby/</guid>
+      <description>&lt;p&gt;作者：りの（梨乃）&lt;br&gt;&#xA;社团：d&lt;br&gt;&#xA;翻译：@马拉桑喝酒醉&lt;/p&gt;</description>
     </item>
     <item>
       <title>【双子无差】SNEAK A PIZZA</title>
