@@ -9,7 +9,4 @@ imageCount: 48
 imageExt: ".jpg" 
 startIndex: 1
 ---
-作者：  
-图源：
-翻译： 
-嵌字： 
+作者：和泉八云（YAK）  

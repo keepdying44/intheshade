@@ -1,5 +1,5 @@
 ---
-title: 姐姐93%（秋风短篇集合1）
+title: 姐姐93%（秋风短篇集）
 date: 2025-12-02
 draft: false
 password: dmc6
