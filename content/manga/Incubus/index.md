@@ -1,5 +1,5 @@
 ---
-title: "关于哥哥变成魅魔的小本本"
+title: "【限时公开】关于哥哥变成魅魔的小本本"
 date: 2025-05-04 18:11:11
 draft: false
 password: incubus
