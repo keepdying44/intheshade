@@ -2,7 +2,7 @@
 title: 【限时公开】mirror
 date: 2025-11-16
 draft: false
-password: mirror
+password: dakhhcahckq
 tags: 
 imagePrefix: "https://mayday44.xyz/3dv--mirror/"  
 imageCount: 33
@@ -23,4 +23,4 @@ startIndex: 1
 公开日期：2026/2/28 - 2026/3/31  
 公开期一个月，到期后做封禁处理，可私信 [阴影站微博](https://weibo.com/u/9122730703)提供购买记录以兑换汉化文件。   
 本篇采用特殊密码。  
-*密码提示：英文「镜子」，6位英文字母（无大写、无空格、无符号）*  
+*原·密码提示：英文「镜子」，6位英文字母（无大写、无空格、无符号）*  
